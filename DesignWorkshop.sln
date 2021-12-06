@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStorageEngine", "FileStorageEngine\FileStorageEngine.csproj", "{7DF226EE-AF34-48DC-85FB-D09AC57D25F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStorageEngine.Tests", "FileStorageEngine.Tests\FileStorageEngine.Tests.csproj", "{98131597-EC4F-42BA-8199-683E62442174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF226EE-AF34-48DC-85FB-D09AC57D25F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF226EE-AF34-48DC-85FB-D09AC57D25F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF226EE-AF34-48DC-85FB-D09AC57D25F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF226EE-AF34-48DC-85FB-D09AC57D25F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98131597-EC4F-42BA-8199-683E62442174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98131597-EC4F-42BA-8199-683E62442174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98131597-EC4F-42BA-8199-683E62442174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98131597-EC4F-42BA-8199-683E62442174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
